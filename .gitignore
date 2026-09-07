@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+build/
+dist/
+.env
+.env.local
+.env.development
+.env.production
